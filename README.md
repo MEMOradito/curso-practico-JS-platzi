@@ -23,3 +23,10 @@ Curso básico de JS
 -2° paso: implementar las formulas en JS 
 -3° paso: crear funciones 
 -4° paso: integrar JS con HTML
+
+## taller #4 : Salarios
+
+-1° paso: definir las formulas
+-2° paso: implementar las formulas en JS 
+-3° paso: crear funciones 
+-4° paso: integrar JS con HTML
